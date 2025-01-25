@@ -10,7 +10,6 @@ Welcome to the **reminda.io** GitHub profile! 🚀
 - 🌍 Cross-platform support for iOS, Android, and Web.  
 - 🛠️ Built with cutting-edge technologies for reliability and scalability.  
 
----
 
 ## 👨‍💻 About Me  
 - 📫 **How to reach me:**  
@@ -20,7 +19,6 @@ Welcome to the **reminda.io** GitHub profile! 🚀
 - ⚡ **Fun fact:**  
   - This app was inspired by the frustration of forgetting small but important tasks!  
 
----
 
 ## 📊 Stats & Roadmap  
 📈 **Current Status:** MVP ready! 🎉  
